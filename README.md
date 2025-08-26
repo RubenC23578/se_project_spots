@@ -1,21 +1,24 @@
-# Project 3: Spots
+# Spot
 
-### Overview  
+## Project Description
+Spot is a web application that enables users to personalize their profiles by uploading and editing images. The platform provides a seamless and intuitive interface for profile customization, ensuring a user-friendly experience across devices.
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+## Features
+- Upload and edit profile images
+- Responsive design for accessibility on desktops, tablets, and mobile devices
+- Intuitive user interface for easy profile management
+
+## Technologies Used
+- **HTML**: Structures the content and layout of the web application
+- **CSS**: Styles the visual presentation and ensures a polished look
+- **Responsive Design**: Optimizes the application for various screen sizes and devices
+
+## Installation
+```bash
+# Clone the repository
+git clone https://github.com/your-username/spot.git
+
+# Navigate to the project directory
+cd spot
+
+# Open index.html in a web browser to view the application
