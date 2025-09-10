@@ -67,12 +67,14 @@
     width: 149px;
     height: 52px;
     border-radius: 8px;
+    border-bottom: 1px solid #21212166;
     font-family: Poppins, Arial, Helvetica, sans-serif;
     font-weight: 500;
     font-style: Medium;
     font-size: 16px;
     line-height: 100%;
     letter-spacing: 0%;
+    
 }
 
 .profile__add-btn:hover {
