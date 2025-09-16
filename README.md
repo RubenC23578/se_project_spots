@@ -16,9 +16,9 @@ Spot is a web application that enables users to personalize their profiles by up
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/spot.git
+git clone https://github.com/RubenC23578/se_project_spots.git
 
 # Navigate to the project directory
-cd spot
+cd se_project_spots
 
 # Open index.html in a web browser to view the application
