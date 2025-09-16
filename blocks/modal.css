@@ -9,6 +9,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 0 10px 0 10px;
 }
 
 .modal_is-opened {
@@ -49,7 +50,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 156px;
+    max-width: 156px;
     height: 52px; 
     padding: 18px 32px; 
     border-radius: 8px; 
@@ -101,4 +102,16 @@
 
 .modal__input::placeholder {
     color: #21212166;
+}
+
+@media screen and (max-width:627px) {
+    .modal {
+        margin: 0 auto;
+        padding: 0 10px 0 10px;
+    }
+    
+    .modal__submit-btn {
+        width: 100%;
+        max-width: none;
+    }
 }
