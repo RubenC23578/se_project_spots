@@ -83,7 +83,8 @@ function handleAddCardSubmit(evt) {
 }
 
 editProfileFormEl.addEventListener("submit", handleProfileFormSubmit);
-newPostFormEl.addEventListener("subit", handleAddCardSubmit);
+newPostFormEl.addEventListener("submit", handleAddCardSubmit);
+
 
 initialCards.forEach(function (card) {
     console.log(card.name);
