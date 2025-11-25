@@ -33,6 +33,7 @@
                     <ul class="cards__list">
                         <template id="card-template">
                             <li class="card">
+                                <button class="card__delete-btn" type="button"></button>
                                 <img 
                                 src="#" 
                                 alt="" 
@@ -103,6 +104,15 @@
                 </div>
             </div>
         </div>
+       <div class="modal modal_type_preview" id="preview-modal">
+    <div class="modal__image-container">
+        <button type="button" class="modal__closed-btn modal__close-btn_type_preview"></button>
+        <img src="#" 
+             alt="" 
+             class="modal__image">
+        <p class="modal__caption"></p>
+    </div>
+</div>
     <script src="./scripts/index.js"></script>
     </body>
 </html>
