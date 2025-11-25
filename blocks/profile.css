@@ -46,11 +46,11 @@
     height: 16px;
     font-family: Poppins, Arial, Helvetica, sans-serif;
     font-weight: 500;
-    font-style: Medium;
+    font-style: normal;
     font-size: 16px;    
     line-height: 100%;
     color: #212121;
-    opacity: 80%;
+    opacity: 0.8;
 }
 
 .profile__edit-btn:hover {
@@ -70,7 +70,7 @@
     border-bottom: 1px solid #21212166;
     font-family: Poppins, Arial, Helvetica, sans-serif;
     font-weight: 500;
-    font-style: Medium;
+    font-style: normal;
     font-size: 16px;
     line-height: 100%;
     letter-spacing: 0%;
@@ -78,7 +78,7 @@
 }
 
 .profile__add-btn:hover {
-    opacity: 80%;
+    opacity: 0.8;
     cursor: pointer;
 }
 

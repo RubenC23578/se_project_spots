@@ -1,5 +1,9 @@
 # Spot
 
+## Live Demo
+
+**🔗 [Click here to see the project live](https://rubenc23578.github.io/se_project_spots/)**
+
 ## Project Description
 Spot is a web application that enables users to personalize their profiles by uploading and editing images. The platform provides a seamless and intuitive interface for profile customization, ensuring a user-friendly experience across devices.
 
